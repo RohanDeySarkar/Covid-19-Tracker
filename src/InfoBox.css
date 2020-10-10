@@ -1,0 +1,34 @@
+/* use as much space need[child container] */
+.infoBox {
+    flex: 1;
+}
+/* apply margin-right to every child container except the last one*/
+.infoBox:not(:last-child) {
+    margin-right: 10px;
+}
+
+.infoBox--red {
+    border-color: red;
+}
+
+.infoBox__cases--green {
+    color: rgb(47, 228, 68) !important;
+}
+
+.infoBox--selected {
+    border-top: 10px solid rgb(41, 205, 223);
+}
+
+.infoBox__cases {
+    color: #f51515;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+  
+.infoBox__total {
+    color: #6c757d;
+    font-weight: 700 !important;
+    font-size: 0.8rem !important;
+    margin-top: 15px !important;
+}

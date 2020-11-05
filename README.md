@@ -1,7 +1,7 @@
 Hosted on --> https://rohandeysarkar.github.io/Covid-19-Tracker/
 
 
-![](https://media-exp1.licdn.com/dms/image/C5622AQF6EYz_FbWQpw/feedshare-shrink_1280-alternative/0?e=1607558400&v=beta&t=WQZGm7NJCJcGfkjQfw42OaGw0rKNkY-ZS--a_7R6HJM)
+![](https://raw.githubusercontent.com/RohanDeySarkar/Covid-19-Tracker/main/covid-meter-sampleImg.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
